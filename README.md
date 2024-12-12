@@ -2,20 +2,20 @@
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### Write your author name here. eg. By Rob
 
 ### Description
 
-Create a description and fill it in here.
+Learning
 
 ## Languages used
 
 What languages were used for this repo:
-List them
+HTML
 
 ### Known Bugs
 
-Are there any? If so what are they?
+None?
 
 ## License
 
